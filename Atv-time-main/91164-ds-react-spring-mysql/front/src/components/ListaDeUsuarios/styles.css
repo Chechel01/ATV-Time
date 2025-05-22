@@ -1,0 +1,16 @@
+/* src\components\ListaDeUsuarios\styles.css */
+
+.lista-usuarios li {
+  text-align: left;
+  margin-bottom: 10px;
+  padding: 10px;
+  background-color: #004080; /* Azul Bahia */
+  border-radius: 5px;
+  font-size: 16px;
+  color: #FFFFFF; /* Texto branco */
+}
+
+.lista-usuarios li strong {
+  font-weight: bold;
+  color: #E30613; /* Vermelho Bahia */
+}
